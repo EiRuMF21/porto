@@ -6,7 +6,7 @@ import { fadeIn } from "../variants";
 import img1 from "../assets/portfolio-img1.png";
 import img2 from "../assets/portfolio-img2.png";
 import img3 from "../assets/portfolio-img3.png";
-import img4 from "../assets/portfolio-img4.png";
+import img4 from "../assets/Tefa.png";
 import img5 from "../assets/portfolio-img5.png";
 
 const Work = () => {
@@ -105,14 +105,13 @@ const Work = () => {
                 src={img4}
               />
               <div className="absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50">
-                <span className="text-gradient">Back-end</span>
+                <span className="text-gradient">Front-End Leader</span>
               </div>
               <div>
-                Website ini membuat form siswa tidak jauh dengan data list siswa
-                perbedaanya ini memakai laravel dan php bersama Bu Hana
+                Proyek Curaweda yang digunakan untuk absensi kantor 
               </div>
               <div className="absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50">
-                <span className="text-3xl text-white">Form Siswa</span>
+                <span className="text-3xl text-white">SmartAttendance</span>
               </div>
             </div>
             <div className="flex-1">
